@@ -1,0 +1,93 @@
+{
+  "settings": {
+    "segmentSampleDistance": 26,
+    "minSegmentLength": 48,
+    "minGestureDistance": 32,
+    "designStyle": "arcane",
+    "themeColor": "#8A6BFF",
+    "accentColor": "#4DE1FF",
+    "showOverlay": true
+  },
+  "gestures": [
+    {
+      "gesture": "←",
+      "name": "戻る",
+      "keys": "alt+left"
+    },
+    {
+      "gesture": "→",
+      "name": "進む",
+      "keys": "alt+right"
+    },
+    {
+      "gesture": "↑",
+      "name": "ウィンドウ最大化",
+      "keys": "win+up"
+    },
+    {
+      "gesture": "↓",
+      "name": "ウィンドウ最小化",
+      "keys": "win+down"
+    },
+    {
+      "gesture": "↓→",
+      "name": "貼り付け",
+      "keys": "ctrl+v"
+    },
+    {
+      "gesture": "↑→",
+      "name": "新しいタブ",
+      "keys": "ctrl+t"
+    },
+    {
+      "gesture": "↑←",
+      "name": "全選択",
+      "keys": "ctrl+a"
+    },
+    {
+      "gesture": "↓↑",
+      "name": "再読み込み",
+      "keys": "f5"
+    },
+    {
+      "gesture": "↑↓",
+      "name": "全選択",
+      "keys": "ctrl+a"
+    },
+    {
+      "gesture": "↓←",
+      "name": "コピー",
+      "keys": "ctrl+c"
+    },
+    {
+      "gesture": "←→",
+      "name": "タスクビュー",
+      "keys": "win+tab"
+    },
+    {
+      "gesture": "→←",
+      "name": "デスクトップ表示",
+      "keys": "win+d"
+    },
+    {
+      "gesture": "↖",
+      "name": "範囲スクリーンショット",
+      "keys": "win+shift+s"
+    },
+    {
+      "gesture": "↗",
+      "name": "検索",
+      "keys": "win+s"
+    },
+    {
+      "gesture": "↘",
+      "name": "元に戻す",
+      "keys": "ctrl+z"
+    },
+    {
+      "gesture": "→↓←↑",
+      "name": "設定を開く",
+      "keys": "win+i"
+    }
+  ]
+}
